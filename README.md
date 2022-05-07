@@ -1,1 +1,3 @@
-# challenge-alura
+Este é o primeiro challenge disponibilizado no curso de tecnologia da Oracle em parceria com a Alura (Oracle Next Education). O desafio do projeto foi criar um decodificador que faça a criptografia e descriptografia de mensagens de texto. A página possibilita a digitação pelo usuário e conta com uma saída para os textos criptografados, juntamente com botões de criptografar, descriptografar e copiar o texto para a área de transferência. 
+
+As tecnologias utilizadas neste projeto foram HTML e CSS para estilização, partindo de uma sugestão proposta pelos criadores da Alura, e JavaScript para trazer funcionalidade à proposta.
